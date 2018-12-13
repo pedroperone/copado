@@ -9,15 +9,15 @@
         <value>Animals</value>
     </caseValues>
     <fields>
-        <label><!-- Age --></label>
+        <label></label>
         <name>Age__c</name>
     </fields>
     <fields>
-        <label><!-- Species --></label>
+        <label></label>
         <name>Species__c</name>
     </fields>
     <recordTypes>
-        <label><!-- Animal --></label>
+        <label></label>
         <name>Animal</name>
     </recordTypes>
     <startsWith>Consonant</startsWith>

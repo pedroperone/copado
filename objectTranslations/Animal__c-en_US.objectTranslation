@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Animal</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Animals</value>
+    </caseValues>
+    <fields>
+        <label><!-- Age --></label>
+        <name>Age__c</name>
+    </fields>
+    <fields>
+        <label><!-- Species --></label>
+        <name>Species__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Animal --></label>
+        <name>Animal</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
